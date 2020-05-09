@@ -16,16 +16,16 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Front-end Development
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
-    color: "#9473e6"
-  - title: After Effects
+  - title: Back-end Development
     progress: 80%
+    color: "#9473e6"
+  - title: CMS Development & Customization
+    progress: 90%
     color: "#bdecf6"
-  - title: Web App
+  - title: DevOps & Server Management
     progress: 70%
     color: "#ffbcaa"
 experience:
@@ -112,7 +112,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: true
+  enable: false
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
