@@ -2,7 +2,7 @@ baseURL = "https://matt-klein.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Matthew Klein | A senior web developer"
 [[menu.main]]
 URL = "about"
 name = "About"
