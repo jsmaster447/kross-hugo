@@ -2,7 +2,7 @@ baseURL = "https://matt-klein.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Matthew Klein | A senior web developer"
+title = "Matthew Klein | Pro Web Services"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -49,7 +49,7 @@ URL = "plugins/slick/slick.min.js"
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "..."
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
