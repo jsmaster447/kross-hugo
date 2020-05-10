@@ -22,8 +22,8 @@ weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+copyright = ""
+description = "Matthew Klein | Pro Web Services"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Home"
